@@ -1,0 +1,10 @@
+.messages {
+  padding: 5% 0;
+  overflow: auto;
+  flex: auto;
+}
+.seen_container {
+  width: 98%;
+  font-style: italic;
+  text-align: end;
+}
